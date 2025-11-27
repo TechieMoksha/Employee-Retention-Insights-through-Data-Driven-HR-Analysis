@@ -1,7 +1,7 @@
-A complete Employee Attrition Prediction & HR Insights project using Python, Machine Learning, Power BI, and Streamlit.
-This system helps HR teams identify why employees leave and predicts who is at risk, giving data-driven recommendations.
+***A complete Employee Attrition Prediction & HR Insights project using Python, Machine Learning, Power BI, and Streamlit.
+This system helps HR teams identify why employees leave and predicts who is at risk, giving data-driven recommendations.***
 
-🚀 Project Overview
+**🚀 Project Overview**
 
 This project performs end-to-end HR analytics using employee data. It includes:
 
@@ -17,7 +17,8 @@ Power BI dashboard for business-level reporting
 
 The goal is to help organizations improve employee satisfaction and retention strategy.
 
-🏗️ Project Architecture
+**🏗️ Project Architecture**
+
 Raw Dataset 
    → Data Cleaning & Feature Engineering
    → EDA
@@ -26,32 +27,24 @@ Raw Dataset
    → Streamlit Dashboard
    → Power BI Dashboard (Optional)
 
-🛠️ Technologies Used
-Languages & Libraries
+**🛠️ Technologies Used**
 
+**Languages & Libraries**
 Python
-
 pandas, numpy
-
 scikit-learn
-
 matplotlib, seaborn
-
 joblib
-
 Dashboards
-
 Streamlit
-
 Power BI
 
-Other Tools
-
+**Other Tools**
 Excel
-
 GitHub
 
-🎯 Features
+**🎯 Features**
+
 🔹 Machine Learning
 
 Predicts whether an employee is At Risk or Safe
@@ -59,6 +52,7 @@ Predicts whether an employee is At Risk or Safe
 Shows confidence score
 
 Highlights top influencing factors
+
 
 🔹 Streamlit Dashboard
 
@@ -70,6 +64,7 @@ Live prediction system
 
 Clean and user-friendly interface
 
+
 🔹 Power BI Dashboard
 
 Department-wise attrition
@@ -80,7 +75,8 @@ Salary, age, overtime comparison
 
 Filters for HR decision-making
 
-⚙️ How This Project Works (Step-by-Step)
+
+**⚙️ How This Project Works (Step-by-Step)**
 
 This is the exact way to run the project from your system.
 1️⃣ Place All Files in One Folder
@@ -112,11 +108,8 @@ Use the command:
 Streamlit will:
 
 Start a local server
-
 Open the dashboard in your browser
-
 Load dataset + model + visualizations
-
 You will see a fully working web app.
 
 4️⃣ How the System Works Internally
@@ -180,11 +173,8 @@ final_dash.py
 → Generates charts like:
 
 Attrition by department
-
 Salary vs attrition
-
 Work-life balance
-
 Overtime analysis
 
 ✔️ (e) Streamlit Output
@@ -199,7 +189,7 @@ Key drivers (important features)
 
 EDA graphs
 
-Final Output You Will Get
+**Final Output You Will Get**
 ✔️ A working Streamlit web app
 ✔️ Machine learning prediction system
 ✔️ Interactive EDA dashboard
@@ -207,13 +197,13 @@ Final Output You Will Get
 ✔️ Full documentation
 ✔️ Clean, structured GitHub repository
 
-👥 Team Members
+**👥 Team Members**
 
 Mokshada Patil
 Ajay Gaikwad 
 Chinmayee Lokhande
 Khushi Chaudhari
 
-⭐ Support
+**⭐ Support**
 
 If this project helped you, please give a ⭐ star on GitHub!
