@@ -85,16 +85,8 @@ This is the exact way to run the project from your system.
 
 Create one main folder and put all project files together:
 
-Employee-Retention-Analysis/
-│
-├── app.py
-├── model.pkl
-├── train_retention_fixed.py
-├── final_dash.py
-├── final_employee_retention_powerbi_clean.xlsx
-├── EmployeeRetentionDashboard.pbix
-├── requirements.txt
-└── documentation/
+<img width="524" height="332" alt="image" src="https://github.com/user-attachments/assets/8e09d76d-4071-4292-a796-2a0fb1024bab" />
+
 
 This ensures Streamlit, datasets, and model load without errors.
 
@@ -175,10 +167,10 @@ EDA graphs
 
 **👥 Team Members**
 
-**Mokshada Patil
-Ajay Gaikwad 
-Chinmayee Lokhande
-Khushi Chaudhari**
+**1. Mokshada Patil**
+**2. Ajay Gaikwad**
+**3. Chinmayee Lokhande**
+**4. Khushi Chaudhari**
 
 **⭐ Support**
 
