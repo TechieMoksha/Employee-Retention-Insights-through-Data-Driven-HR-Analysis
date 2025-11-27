@@ -78,10 +78,13 @@ Filters for HR decision-making
 
 **⚙️ How This Project Works (Step-by-Step)**
 
+
 This is the exact way to run the project from your system.
+
 1️⃣ Place All Files in One Folder
 
 Create one main folder and put all project files together:
+
 Employee-Retention-Analysis/
 │
 ├── app.py
@@ -92,10 +95,13 @@ Employee-Retention-Analysis/
 ├── EmployeeRetentionDashboard.pbix
 ├── requirements.txt
 └── documentation/
+
 This ensures Streamlit, datasets, and model load without errors.
+
 
 2️⃣ Install Required Python Libraries
 pip install pandas numpy scikit-learn matplotlib seaborn joblib streamlit openpyxl plotly
+
 
 
 3️⃣ Run the Streamlit Dashboard
@@ -105,6 +111,7 @@ Use the command:
 1. cd "YourFolderPath"
 2. python -m streamlit run "YourFinalAppPath"
 
+
 Streamlit will:
 
 Start a local server
@@ -112,7 +119,9 @@ Open the dashboard in your browser
 Load dataset + model + visualizations
 You will see a fully working web app.
 
+
 4️⃣ How the System Works Internally
+
 ✔️ (a) Loads Clean Dataset
 
 final_employee_retention_powerbi_clean.xlsx
@@ -130,6 +139,7 @@ train_retention_fixed.py
 
 ✔️ (d) Visualization Script
 
+
 final_dash.py
 → Generates charts like:
 
@@ -141,41 +151,6 @@ Work-life balance
 
 Overtime analysis
 
-✔️ (e) Streamlit Output
-
-Based on user input, the app shows:
-
-Attrition Prediction
-
-Confidence Score
-
-Key drivers (important features)
-
-EDA graphs4️⃣ How the System Works Internally
-✔️ (a) Loads Clean Dataset
-
-final_employee_retention_powerbi_clean.xlsx
-→ Used for charts, EDA, and Power BI
-
-✔️ (b) Loads Trained Machine Learning Model
-
-model.pkl
-→ Predicts employee attrition
-
-✔️ (c) Preprocessing Script
-
-train_retention_fixed.py
-→ Handles encoding, feature scaling, model preparation
-
-✔️ (d) Visualization Script
-
-final_dash.py
-→ Generates charts like:
-
-Attrition by department
-Salary vs attrition
-Work-life balance
-Overtime analysis
 
 ✔️ (e) Streamlit Output
 
@@ -189,6 +164,7 @@ Key drivers (important features)
 
 EDA graphs
 
+
 **Final Output You Will Get**
 ✔️ A working Streamlit web app
 ✔️ Machine learning prediction system
@@ -199,10 +175,10 @@ EDA graphs
 
 **👥 Team Members**
 
-Mokshada Patil
+**Mokshada Patil
 Ajay Gaikwad 
 Chinmayee Lokhande
-Khushi Chaudhari
+Khushi Chaudhari**
 
 **⭐ Support**
 
