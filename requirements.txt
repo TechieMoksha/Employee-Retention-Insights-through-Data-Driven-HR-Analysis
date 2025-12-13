@@ -6,5 +6,7 @@ plotly
 matplotlib
 seaborn
 openpyxl
+imbalanced-learn
+
 
 
