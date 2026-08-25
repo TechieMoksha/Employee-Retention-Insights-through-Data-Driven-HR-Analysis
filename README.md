@@ -49,7 +49,7 @@ GitHub
 
 Predicts whether an employee is At Risk or Safe
 
-Shows confidence score
+Shows confidence score!
 
 Highlights top influencing factors
 
@@ -91,12 +91,12 @@ Create one main folder and put all project files together:
 This ensures Streamlit, datasets, and model load without errors.
 
 
-2️⃣ Install Required Python Libraries
+2️⃣ Install Required Python Libraries.
 pip install pandas numpy scikit-learn matplotlib seaborn joblib streamlit openpyxl plotly
 
 
 
-3️⃣ Run the Streamlit Dashboard
+3️⃣ Run the Streamlit Dashboard.
 
 Use the command:
 
